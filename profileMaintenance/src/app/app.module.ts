@@ -11,8 +11,8 @@ import { FooterComponent } from './landingpages/footer/footer.component';
   declarations: [
     AppComponent,
     HeaderComponent,
+    FooterComponent,
     HomeComponent,
-    FooterComponent
   ],
   imports: [
     BrowserModule,
